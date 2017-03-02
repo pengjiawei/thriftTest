@@ -1,0 +1,2 @@
+# thriftTest
+thrift java example
